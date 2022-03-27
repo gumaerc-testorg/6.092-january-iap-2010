@@ -31,7 +31,7 @@ SUPPORTING FILES
 GravityCalculator ([PDF]({{< baseurl >}}/resources/mit6_092iap10_assn01))
 {{< tdclose >}}
 {{< tdopen >}}
-GravityCalculator.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/assignments/GravityCalculator.java))
+GravityCalculator.java ([JAVA]({{< baseurl >}}/resources/gravitycalculator))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +55,7 @@ FooCorporation ([PDF]({{< baseurl >}}/resources/mit6_092iap10_assn02))
 Marathon ([PDF]({{< baseurl >}}/resources/mit6_092iap10_assn03))
 {{< tdclose >}}
 {{< tdopen >}}
-Marathon.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/assignments/Marathon.java))
+Marathon.java ([JAVA]({{< baseurl >}}/resources/marathon))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,9 +69,9 @@ Library ([PDF]({{< baseurl >}}/resources/mit6_092iap10_assn04))
 {{< tdopen >}}
 
 
-Book.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/assignments/Book.java))
+Book.java ([JAVA]({{< baseurl >}}/resources/book))
 
-Library.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/assignments/Library.java))
+Library.java ([JAVA]({{< baseurl >}}/resources/library))
 
 
 {{< tdclose >}}
@@ -89,11 +89,11 @@ Graphics! ([PDF]({{< baseurl >}}/resources/mit6_092iap10_assn05))
 
 initial.png ([PNG]({{< baseurl >}}/resources/initial))
 
-SimpleDraw.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/assignments/SimpleDraw.java))
+SimpleDraw.java ([JAVA]({{< baseurl >}}/resources/simpledraw))
 
-BouncingBox.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/assignments/BouncingBox.java))
+BouncingBox.java ([JAVA]({{< baseurl >}}/resources/bouncingbox))
 
-DrawGraphics.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/assignments/DrawGraphics.java))
+DrawGraphics.java ([JAVA]({{< baseurl >}}/resources/drawgraphics))
 
 
 {{< tdclose >}}
@@ -121,11 +121,11 @@ Magic squares ([PDF]({{< baseurl >}}/resources/mit6_092iap10_assn07))
 {{< tdopen >}}
 
 
-Mercury.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/assignments/Mercury.txt))
+Mercury.txt ([TXT]({{< baseurl >}}/resources/mercury))
 
-Luna.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/assignments/Luna.txt))
+Luna.txt ([TXT]({{< baseurl >}}/resources/luna))
 
-Solutions ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/assignments/MagicSquares.java))
+Solutions ([JAVA]({{< baseurl >}}/resources/magicsquares))
 
 
 {{< tdclose >}}

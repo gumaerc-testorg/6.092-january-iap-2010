@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 52a418b4-9fb3-10da-5de7-0c9c3d577590
 resourcetype: Document
 title: 'Lecture 5: Access Control, Class Scope, Packages, Java API'
 uid: ae507b63-8374-a092-cf86-3e83bde05bad

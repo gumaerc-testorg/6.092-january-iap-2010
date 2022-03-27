@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 52a418b4-9fb3-10da-5de7-0c9c3d577590
 resourcetype: Document
 title: 'Lecture 4: Classes and Objects'
 uid: e95ec6cf-928f-0825-9a01-bda319484655

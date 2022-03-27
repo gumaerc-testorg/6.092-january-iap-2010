@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ed732d71-ecdc-33c4-3b00-672f8cc05ebc
 resourcetype: Image
 title: initial
 uid: cbc6b7f3-3feb-3027-cd1f-c022aaad79ce

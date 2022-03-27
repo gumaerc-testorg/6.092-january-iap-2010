@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ed732d71-ecdc-33c4-3b00-672f8cc05ebc
 resourcetype: Document
 title: 'Assignment 6: Graphics strikes back!'
 uid: 7b8004fe-d9d8-7169-3414-e98559ac7b83

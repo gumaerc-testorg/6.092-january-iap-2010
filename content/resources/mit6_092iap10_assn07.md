@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ed732d71-ecdc-33c4-3b00-672f8cc05ebc
 resourcetype: Document
 title: 'Assignment 7: Magic Squares!'
 uid: e217df88-ea26-9c25-ac33-3c7370286a4e

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 52a418b4-9fb3-10da-5de7-0c9c3d577590
 resourcetype: Document
 title: 'Lecture 3: Loops,  Arrays'
 uid: 5b55c703-cbb7-ada8-d1bd-72e58a1b4fbf

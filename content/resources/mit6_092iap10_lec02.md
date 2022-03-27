@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 52a418b4-9fb3-10da-5de7-0c9c3d577590
 resourcetype: Document
 title: 'Lecture 2: More types, Methods, Conditionals'
 uid: 681c9db7-95b4-8f68-b58e-45210620dae4

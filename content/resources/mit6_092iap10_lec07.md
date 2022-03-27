@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 52a418b4-9fb3-10da-5de7-0c9c3d577590
 resourcetype: Document
 title: 'Lecture 7: Review, Exceptions, IO'
 uid: f04b8fe3-2c4c-d8c0-cb06-43937e1f6b5d
