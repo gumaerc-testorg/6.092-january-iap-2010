@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting file for a problem set on building an electronic rental system
   for libraries with Java.
-file: /media/courses/6-092-introduction-to-programming-in-java-january-iap-2010/b14b7770c67b8bb49c07707e3eb1e3e6_Book.java
+file: /courses/6-092-introduction-to-programming-in-java-january-iap-2010/b14b7770c67b8bb49c07707e3eb1e3e6_Book.java
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Other
 title: Book
 uid: b14b7770-c67b-8bb4-9c07-707e3eb1e3e6
 ---
+Supporting file for a problem set on building an electronic rental system for libraries with Java.
+
