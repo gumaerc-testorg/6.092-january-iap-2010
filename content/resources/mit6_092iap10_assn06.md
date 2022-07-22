@@ -7,6 +7,7 @@ file: /courses/6-092-introduction-to-programming-in-java-january-iap-2010/7b8004
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on programming in Java, separating the functionality of a class into two classes, implementing interfaces, multiple movement patterns, creating interfaces, and reducing duplication.
-

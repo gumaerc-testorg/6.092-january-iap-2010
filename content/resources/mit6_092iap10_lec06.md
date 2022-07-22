@@ -7,6 +7,7 @@ file: /courses/6-092-introduction-to-programming-in-java-january-iap-2010/2405ab
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation on programming in Java. Topics include: good program design, consistency, naming, good class design, debugging, psuedocode, design, testing, intervals, tools, assertions, methods, objects, and Java interfaces.
-

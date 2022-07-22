@@ -6,6 +6,7 @@ file: /courses/6-092-introduction-to-programming-in-java-january-iap-2010/da4123
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: DrawGraphics
 uid: da412371-938c-f592-b39b-eb1665435029
 ---
 Supporting file for a problem set on programming in Java, building software with objects, Java's built-in graphics, containers, and animation.
-

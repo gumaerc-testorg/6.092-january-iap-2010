@@ -6,6 +6,7 @@ file: /courses/6-092-introduction-to-programming-in-java-january-iap-2010/f2ebd6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on programming in Java, building software with objects, Java's built-in graphics, containers, and animation.
-
