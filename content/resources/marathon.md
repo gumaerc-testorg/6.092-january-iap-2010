@@ -3,6 +3,7 @@ content_type: resource
 description: Supporting file for a problem set on writing a Java method that takes
   as input an array of integers and returns the index corresponding to the lowest.
 file: /courses/6-092-introduction-to-programming-in-java-january-iap-2010/1fa831dbe55bc6629ca222f820e89135_Marathon.java
+file_size: 566
 file_type: text/plain
 learning_resource_types:
 - Assignments

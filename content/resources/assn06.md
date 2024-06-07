@@ -4,6 +4,7 @@ description: Supporting files for a problem set on programming in Java, separati
   the functionality of a class into two classes, implementing interfaces, multiple
   movement patterns, creating interfaces, and reducing duplication.
 file: /courses/6-092-introduction-to-programming-in-java-january-iap-2010/a1b63d3f71d6daa239fd03ac592f2952_assn06.zip
+file_size: 3352
 file_type: application/zip
 learning_resource_types:
 - Assignments
