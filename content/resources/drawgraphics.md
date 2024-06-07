@@ -3,6 +3,7 @@ content_type: resource
 description: Supporting file for a problem set on programming in Java, building software
   with objects, Java's built-in graphics, containers, and animation.
 file: /courses/6-092-introduction-to-programming-in-java-january-iap-2010/da412371938cf592b39beb1665435029_DrawGraphics.java
+file_size: 456
 file_type: text/plain
 learning_resource_types:
 - Assignments
