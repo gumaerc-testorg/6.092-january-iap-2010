@@ -4,7 +4,7 @@ description: 'Lecture presentation on programming in Java. Topics include: objec
   oriented programming, defining classes, using classes, constructors, methods, accessing
   fields, primitives versus references, references versus values, and static types
   and methods.'
-file: /courses/6-092-introduction-to-programming-in-java-january-iap-2010/e95ec6cf928f08259a01bda319484655_MIT6_092IAP10_lec04.pdf
+file: /ol-ocw-studio-app/courses/6-092-introduction-to-programming-in-java-january-iap-2010/e95ec6cf928f08259a01bda319484655_MIT6_092IAP10_lec04.pdf
 file_size: 172500
 file_type: application/pdf
 learning_resource_types:
