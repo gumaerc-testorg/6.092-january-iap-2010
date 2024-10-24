@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting graphic file for a problem set on programming in Java, building
   software with objects, Java's built-in graphics, containers, and animation.
-file: /courses/6-092-introduction-to-programming-in-java-january-iap-2010/cbc6b7f33feb3027cd1fc022aaad79ce_initial.png
+file: /ol-ocw-studio-app/courses/6-092-introduction-to-programming-in-java-january-iap-2010/cbc6b7f33feb3027cd1fc022aaad79ce_initial.png
 file_size: 8355
 file_type: image/png
 image_metadata:
