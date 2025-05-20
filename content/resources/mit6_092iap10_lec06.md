@@ -3,7 +3,7 @@ content_type: resource
 description: 'Lecture presentation on programming in Java. Topics include: good program
   design, consistency, naming, good class design, debugging, psuedocode, design, testing,
   intervals, tools, assertions, methods, objects, and Java interfaces.'
-file: /ol-ocw-studio-app/courses/6-092-introduction-to-programming-in-java-january-iap-2010/2405ab6df66c95de7bb956f9b3329677_MIT6_092IAP10_lec06.pdf
+file: /courses/6-092-introduction-to-programming-in-java-january-iap-2010/2405ab6df66c95de7bb956f9b3329677_MIT6_092IAP10_lec06.pdf
 file_size: 166021
 file_type: application/pdf
 learning_resource_types:
