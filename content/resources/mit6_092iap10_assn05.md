@@ -3,7 +3,7 @@ content_type: resource
 description: Problem set on programming in Java, building software with objects, Java's
   built-in graphics, containers, and animation.
 draft: false
-file: /courses/6-092-introduction-to-programming-in-java-january-iap-2010/f2ebd6ecc3661029db6f977855667621_MIT6_092IAP10_assn05.pdf
+file: /ol-ocw-studio-app/courses/6-092-introduction-to-programming-in-java-january-iap-2010/f2ebd6ecc3661029db6f977855667621_MIT6_092IAP10_assn05.pdf
 file_size: 106689
 file_type: application/pdf
 image_metadata:

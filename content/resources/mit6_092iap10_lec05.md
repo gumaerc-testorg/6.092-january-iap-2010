@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture presentation on programming in Java. Topics include: access
   control, class scope, packages, and the Java API.'
-file: /courses/6-092-introduction-to-programming-in-java-january-iap-2010/ae507b638374a092cf863e83bde05bad_MIT6_092IAP10_lec05.pdf
+file: /ol-ocw-studio-app/courses/6-092-introduction-to-programming-in-java-january-iap-2010/ae507b638374a092cf863e83bde05bad_MIT6_092IAP10_lec05.pdf
 file_size: 190641
 file_type: application/pdf
 learning_resource_types:

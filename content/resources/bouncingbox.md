@@ -3,7 +3,7 @@ content_type: resource
 description: Supporting file for a problem set on programming in Java, building software
   with objects, Java's built-in graphics, containers, and animation.
 draft: false
-file: /courses/6-092-introduction-to-programming-in-java-january-iap-2010/f1d531c49a480a0f56a26ada8a28df77_BouncingBox.java
+file: /ol-ocw-studio-app/courses/6-092-introduction-to-programming-in-java-january-iap-2010/f1d531c49a480a0f56a26ada8a28df77_BouncingBox.java
 file_size: 1813
 file_type: text/plain
 image_metadata:
