@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture presentation on programming in Java. Topics include: good programming
   style, frequent issues, loops, and arrays.'
-file: /courses/6-092-introduction-to-programming-in-java-january-iap-2010/5b55c703cbb7ada8d1bd72e58a1b4fbf_MIT6_092IAP10_lec03.pdf
+file: /ol-ocw-studio-app/courses/6-092-introduction-to-programming-in-java-january-iap-2010/5b55c703cbb7ada8d1bd72e58a1b4fbf_MIT6_092IAP10_lec03.pdf
 file_size: 132869
 file_type: application/pdf
 learning_resource_types:

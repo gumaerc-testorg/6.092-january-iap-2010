@@ -3,7 +3,7 @@ content_type: resource
 description: Supporting data file for a problem set on writing a Java program to check
   that all rows in a magic square sum to the same constant.
 draft: false
-file: /courses/6-092-introduction-to-programming-in-java-january-iap-2010/f55cc318f23d417c0aa339f2d90e08ed_Mercury.txt
+file: /ol-ocw-studio-app/courses/6-092-introduction-to-programming-in-java-january-iap-2010/f55cc318f23d417c0aa339f2d90e08ed_Mercury.txt
 file_size: 199
 file_type: text/plain
 image_metadata:
