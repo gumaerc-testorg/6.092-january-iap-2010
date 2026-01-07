@@ -16,15 +16,15 @@ video_metadata:
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 RESOURCES
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "d3d6c502-840e-463c-a978-d1446ca0d7ed" "How to Think Like a Computer Scientist" %}}    
+[How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkapjava/)    
 The course approximately follows this book.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "fbc1b7ac-ea45-439f-99eb-cb7f98eedf47" "Introduction to Programming Using Java, Fifth Edition" %}}    
+[Introduction to Programming Using Java, Fifth Edition](http://math.hws.edu/javanotes/)    
 Alternative free electronic book.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "5d6672dd-7635-426b-809a-5c583f2b8051" "The Java API" %}}    
+[The Java API](http://java.sun.com/javase/6/docs/api/)    
 The one reference you should take away from this course!
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "dfe72523-7ff8-4222-8e73-7f61a3f2e29c" "Eclipse: Total Beginner Lessons" %}}    
+[Eclipse: Total Beginner Lessons](http://eclipsetutorial.sourceforge.net/totalbeginnerlessons.html)    
 Screen casts showing how to use Eclipse for Java development.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

@@ -32,4 +32,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-Supporting files for a problem set on programming in Java, separating the functionality of a class into two classes, implementing interfaces, multiple movement patterns, creating interfaces, and reducing duplication. assn06.zip ({{% resource_link "6116ce4c-11b3-4f70-98f3-425e5c0d88a2" "ZIP" %}}) (This ZIP file contains: 6 .java files.)
+Supporting files for a problem set on programming in Java, separating the functionality of a class into two classes, implementing interfaces, multiple movement patterns, creating interfaces, and reducing duplication. assn06.zip ([ZIP](https://draft.ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/resources/assn06/)) (This ZIP file contains: 6 .java files.)
